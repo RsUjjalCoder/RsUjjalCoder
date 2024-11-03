@@ -1,6 +1,6 @@
 ### Hi there 👋, Rs ~ Ujjal ~ Coder
 #### web developer
-![web developer](![web developer](https://github.com/RsUjjalCoder/Rs-Ujjal-Coder/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner%20(1).png))
+![web developer](https://github.com/RsUjjalCoder/RsUjjalCoder/blob/main/ujjjall.png)
 
 Greetings viewers!! Thanks for taking you time in visiting my Git repo. I work as an web developer Consultant
 
@@ -25,4 +25,5 @@ Skills: REACT / JS / HTML / CSS / Bootstrap
 ![GitHub metrics](https://metrics.lecoq.io/RsUjjalCoder)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RsUjjalCoder)  
+
 
